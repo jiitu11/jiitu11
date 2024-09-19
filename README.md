@@ -1,4 +1,4 @@
-[![MasterHead](https://www.svix.com/blog/static/images/generated/github-incidents-webhooks/cover-MDS5GZ4J.png)]
+[![MasterHead](https://cdn.shopify.com/s/files/1/0066/4574/3686/files/New_York_Skyline_LinkedIn_Background_Photo.png?v=1627912075)]
 <h1 align="center">Hi 👋, I'm Jitu Barman</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiitu11&label=Profile%20views&color=0e75b6&style=flat" alt="jiitu11" /> </p>
 
